@@ -1,0 +1,23 @@
+{
+  "name": "express-camelcase-keys",
+  "version": "1.0.0",
+  "description": "Simple express middleware that converts keys posted to the site to camel case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-fielding/express-camelcase-keys.git"
+  },
+  "keywords": [
+    "express",
+    "camelcase"
+  ],
+  "author": "Jonathan Fielding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathan-fielding/express-camelcase-keys/issues"
+  },
+  "homepage": "https://github.com/jonathan-fielding/express-camelcase-keys#readme"
+}
