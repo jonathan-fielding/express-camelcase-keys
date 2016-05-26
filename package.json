@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jonathan-fielding/express-camelcase-keys/issues"
   },
-  "homepage": "https://github.com/jonathan-fielding/express-camelcase-keys#readme"
+  "homepage": "https://github.com/jonathan-fielding/express-camelcase-keys#readme",
+  "dependencies": {
+    "camelcase-keys": "^3.0.0"
+  }
 }
